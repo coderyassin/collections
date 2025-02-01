@@ -1,0 +1,2 @@
+A data structure in Java is a way of organizing and storing data so that it can be
+accessed and modified efficiently.
